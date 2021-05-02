@@ -19,3 +19,4 @@
 
 
 [linkedin]: https://www.linkedin.com/in/dominika-leśniewska-6146761b9/
+[kwasiarkowy]: https://github.com/kwasiarkowy
