@@ -16,8 +16,6 @@
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="SQL" width="26px" src="https://cdn2.iconfinder.com/data/icons/programming-50/64/206_programming-sql-data-database-512.png" />
 <img aling="left" alt="PYTHON" width="26px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />
-<img aling="left" alt="GITHUB" width="26px" src="https://www.flaticon.com/svg/vstatic/svg/25/25231.svg?token=exp=1620051356~hmac=6c653551b958a1b488153b057d2af5cb" />
-
 
 [linkedin]: https://www.linkedin.com/in/dominika-leśniewska-6146761b9/
 [kwasiarkowy]: https://github.com/kwasiarkowy
