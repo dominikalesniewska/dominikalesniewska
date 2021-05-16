@@ -4,7 +4,7 @@
 - 📚 I'm currently studying Computer Science at Faculty of Mathematics and Computer Science, Adam Mickiewicz University
 - 🔭 I’m currently working on simple project written in Java (library application)
 - 🌱 I’m currently learning Python and SQL
-- 😄 Hobbys: psychology, running, playing ukulele
+- 😄 Hobbys: psychology, learning languages, running, playing ukulele
 
 ### Connect with me:
 - 📫 via mail: domles8@st.amu.edu.pl
