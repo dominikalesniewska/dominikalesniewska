@@ -6,7 +6,7 @@
 - 😄 Hobbys: psychology, learning languages, running, playing ukulele
 
 ### Connect with me:
-- 📫 via mail: domles8@st.amu.edu.pl
+- 📫 via mail: dlesniewska@protonmail.com
 - 📫 via [linkedin]
 
 ### Languages and tools:
