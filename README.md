@@ -3,7 +3,7 @@
 ## A little bit about me:
 - 📚 I'm currently studying Computer Science at Faculty of Mathematics and Computer Science, Adam Mickiewicz University
 - 🌱 I’m currently learning Python and SQL
-- 😄 Hobbys: psychology, learning languages, running, playing ukulele
+- 😄 Hobbys: cognitive science, learning languages, running, playing ukulele
 
 ### Connect with me:
 - 📫 via mail: dlesniewska@protonmail.com
