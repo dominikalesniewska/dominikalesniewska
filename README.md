@@ -17,4 +17,4 @@
 <img aling="left" alt="PYTHON" width="26px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />
 
 [linkedin]: https://www.linkedin.com/in/dominika-leśniewska-6146761b9/
-[kwasiarkowy]: https://github.com/kwasiarkowy
+[kwasiarkowy]: https://github.com/kwasiarkowy?tab=repositories
