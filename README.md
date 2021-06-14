@@ -2,7 +2,7 @@
 
 ## A little bit about me:
 - 📚 I'm currently studying Computer Science at Faculty of Mathematics and Computer Science, Adam Mickiewicz University
-- 🌱 I’m currently learning Python and SQL
+- 🌱 I’m currently learning Python, SQL and Blender
 - 😄 Hobbys: cognitive science, learning languages, running, playing ukulele
 
 ### Connect with me:
