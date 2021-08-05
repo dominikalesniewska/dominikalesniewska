@@ -2,8 +2,9 @@
 
 ## A little bit about me:
 - 📚 I'm currently studying Computer Science at Faculty of Mathematics and Computer Science, Adam Mickiewicz University
-- 🌱 I’m currently learning Python, SQL and Blender
-- 😄 Hobbys: cognitive science, learning languages, running, playing ukulele
+- 🌱 I’m currently learning Python, SQL and Docker
+- :penguin: I'm using Windows 10 and Linux Manjaro
+- 😄 Hobbys: cognitive science, learning languages (right now I'm learning French)
 
 ### Connect with me:
 - 📫 via mail: dlesniewska@protonmail.com
