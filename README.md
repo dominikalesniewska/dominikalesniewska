@@ -11,9 +11,9 @@
 - 📫 via [linkedin]
 
 ### Technologies and tools:
+<img align="left" alt="JAVASCRIPT" width="26px" src="https://raw.githubusercontent.com/voodootikigod/logo.js/master/js.png" />
 <img align="left" alt="SQL" width="26px" src="https://cdn2.iconfinder.com/data/icons/programming-50/64/206_programming-sql-data-database-512.png" />
 <img aling="left" alt="PYTHON" width="26px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />
-<img align="left" alt="JAVASCRIPT" width="26px" src="https://raw.githubusercontent.com/voodootikigod/logo.js/master/js.png" />
 
 [linkedin]: https://www.linkedin.com/in/dominika-leśniewska-6146761b9/
 [kwasiarkowy]: https://github.com/kwasiarkowy?tab=repositories
