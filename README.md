@@ -2,7 +2,6 @@
 
 ## A little bit about me:
 - 📚 I'm currently studying Computer Science at Faculty of Mathematics and Computer Science, Adam Mickiewicz University
-- 🌱 I’m currently learning Python, JavaScript and Blender
 
 ### Connect with me:
 - 📫 via mail: dlesniewska@protonmail.com
