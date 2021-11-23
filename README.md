@@ -11,6 +11,7 @@
 ### Technologies and tools:
 - Java
 - JavaScript
+- React
 - HTML
 - CSS
 
