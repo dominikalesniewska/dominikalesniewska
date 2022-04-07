@@ -1,19 +1,17 @@
-## Hi there, welcome to my Github page aka [kwasiarkowy] 👋
+## Welcome to my Github page aka [kwasiarkowy]
 
-### A little bit about me:
-- 📚 I'm currently studying Computer Science at Faculty of Mathematics and Computer Science, Adam Mickiewicz University
-- :owl: I’m currently learning Java
+### About me:
+- I'm studying Computer Science at Faculty of Mathematics and Computer Science, Adam Mickiewicz University
+- I’m currently learning Python 
+- I'm interested in AI, cognitive science and astronomy
 
 ### Connect with me:
 - 📫 via mail: dlesniewska@protonmail.com
 - 📫 via [linkedin]
 
 ### Technologies and tools:
-- Java
+- Python
 - JavaScript
-- React
-- HTML
-- CSS
 
 [linkedin]: https://www.linkedin.com/in/dominika-leśniewska-6146761b9/
 [kwasiarkowy]: https://github.com/kwasiarkowy?tab=repositories
